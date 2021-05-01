@@ -13,4 +13,4 @@
 
 ### Online Preview
 
-- [Live App](http://localhost:3000)
+- [Live App](https://challenge-snow-faq.netlify.app/)
