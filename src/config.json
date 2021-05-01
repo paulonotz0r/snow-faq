@@ -1,0 +1,4 @@
+{
+  "SNOWMANLABS_QUESTIONS_API": "https://snow-faq-api.herokuapp.com/api/v1",
+  "QUESTIONS_COLORS": ["#46c9a7", "#ff7074", "#ffbe00", "#10159a"]
+}
